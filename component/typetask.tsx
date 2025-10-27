@@ -49,7 +49,7 @@ export default function TypeTasks() {
     console.log( "this is the users length",users.length)
 
     return (
-        <div className='font-serif flex justify-center bg-gradient-to-bl from-blue-400 to-amber-200 h-[1200px]'>
+        <div className='font-serif flex justify-center bg-gradient-to-bl from-blue-400 to-amber-200 h-100svh'>
             <div className="p-6 border-0 border-sky-100 mt-20">
                 <h2 className="text-5xl font-bold mb-4 text-center font-serif text-neutral-950 "> User List</h2>
                 <div className="mb-4 space-x-2">
